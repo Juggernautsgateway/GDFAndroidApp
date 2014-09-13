@@ -1,0 +1,49 @@
+To get the latest changes from the local repository
+----------------------------------------------
+$git pull origin master
+
+To push the chages to the remote repository
+----------------------------------------------
+$git push -u origin master
+
+To add the remote repository as origin so that we need not give origin master for Push and Pull's everytime
+------------------------------------------------------------------------------------------------------------
+$git remote add origin <url of the git repository>
+
+To get the status of the files in the local repository
+------------------------------------------------------
+$git status
+
+To get the Commit Logs
+----------------------
+$git log
+
+To commit files
+-----------------
+$git commit -m "<Commit Message>"
+
+To add new files
+-----------------
+$git add README.md
+
+
+To download the initail version of the remote repository in local
+--------------------------------------------------------------------
+$git clone <url of the git repository>
+
+
+our repository
+---------------
+https://github.com/Juggernautsgateway/GDFAndroidApp.git
+
+
+
+
+
+
+
+
+
+
+
+ 
